@@ -1,4 +1,4 @@
-# :blue_book: clj-omnibus
+# :blue_book: Clojure Omnibus
 
 A scrapbook for my current knowledge of leiningen & clojure.
 
