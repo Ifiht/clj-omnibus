@@ -1,14 +1,5 @@
-# clj-omnibus
+# :blue_book: clj-omnibus
 
-A Clojure library designed to ... well, that part is up to you.
+A scrapbook for my current knowledge of leiningen & clojure.
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Built to be accessed through ```lein repl```
