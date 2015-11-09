@@ -19,3 +19,7 @@ Available options are:
 (def structs {list (), vector [], hash {}, set #{}})
 
 ;======================~ Functions ~=============================;
+
+;=====================~ Java Interop ~===========================;
+'(. object-expr-or-classname-symbol method-or-member-symbol optional-args*)
+; e.g. (. Math abs -5)
