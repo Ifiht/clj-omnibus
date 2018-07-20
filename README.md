@@ -23,3 +23,6 @@ Built to be accessed through ```lein repl```
     └── eudaemon
         └── core_test.clj
 ```
+
+## Markdown cheat-sheet
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
