@@ -20,7 +20,7 @@ Built to be accessed through ```lein repl```
 ├── target
 │   └── default
 └── test
-    └── eudaemon
+    └── hello_world
         └── core_test.clj
 ```
 
